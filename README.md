@@ -49,3 +49,4 @@ Batch file location: `C:\Server\nginx`
 `http://localhost/phpmyadmin`
 
 ## Required environment variables
+![environment variables](https://github.com/parameswar-mondal/npmwinserver/assets/49751040/9a0914fe-5914-4c14-8ee1-5be8a134d8a0)
